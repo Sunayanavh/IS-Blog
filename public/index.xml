@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;## Introduction&lt;/p&gt;&#xA;&lt;p&gt;This is **bold** text, and this is *emphasized* text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the [Hugo](&lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;) website!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello, my name is &lt;em&gt;Sunayana&lt;/em&gt; and I&amp;rsquo;m an information science major studying in &lt;strong&gt;Azim Premji University&lt;/strong&gt; Bangalore. I reside in HSR Layout. I have been in &lt;em&gt;Freedom International School&lt;/em&gt; from nursery to 12th grade. I am interested in singing, badminton and painting. &lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;In unit one, we worked on the DIKW model which I s a framework explaining how raw data is transformed into actionable insights and finally, efficient decisions. We had to make charts and I enjoyed presenting our group&amp;rsquo;s work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
