@@ -2,7 +2,7 @@
 
 date = '2026-03-23T16:34:36+05:30'
 
-draft = true
+draft = false
 
 title = 'Understanding DIKW, images, optimization and more'
 
