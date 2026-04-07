@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Sunayana/AppData/Local/Programs/Git/quickstart",
+	"sourceRoot": "C:/Users/sunay/IS-Blog",
 	"sources": [
 		"ananke/css/main.css"
 	],

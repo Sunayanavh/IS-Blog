@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Apr 2026 20:05:25 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog3</title>
-      <link>http://localhost:1313/posts/blog3/</link>
+      <link>https://example.org/posts/blog3/</link>
       <pubDate>Tue, 07 Apr 2026 20:05:25 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog3/</guid>
+      <guid>https://example.org/posts/blog3/</guid>
       <description>&lt;p&gt;In unit one, we worked on Failures&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding DIKW, images, optimization and more</title>
-      <link>http://localhost:1313/posts/blog2/</link>
+      <link>https://example.org/posts/blog2/</link>
       <pubDate>Mon, 23 Mar 2026 16:34:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog2/</guid>
+      <guid>https://example.org/posts/blog2/</guid>
       <description>&lt;p&gt;In unit one, we worked on the DIKW model which I s a framework explaining how raw data is transformed into actionable insights and finally, efficient decisions. We had to make charts and I enjoyed presenting our group&amp;rsquo;s work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily.&#xA;In unit two, we learnt about image transformation and the different aspects that make up an image. For example, we learnt how grayscale and coloured pictures are recognized and stored on a computer. We understood how the different intensities of RGB form a colourful image. We could even calculate the amount of space an image or video takes up in a device based on the number of pixels and aspect ratio of the frame. By the end of unit 2, we were taught about optimization and modelling which helped in easy analysis of a problem. For example, we could plot the different train routes and timings on a graph and find solutions to efficiently time them such that they don&amp;rsquo;t clash. Overall, it was a very fun unit and I enjoyed working on these topics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello, my name is &lt;em&gt;Sunayana&lt;/em&gt; and I&amp;rsquo;m an information science major studying in &lt;strong&gt;Azim Premji University&lt;/strong&gt; Bangalore. I reside in HSR Layout. I have been in &lt;em&gt;Freedom International School&lt;/em&gt; from nursery to 12th grade. I am interested in singing, badminton and painting. &lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;In unit one, we worked on the DIKW model which I s a framework explaining how raw data is transformed into actionable insights and finally, efficient decisions. We had to make charts and I enjoyed presenting our group&amp;rsquo;s work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily.&lt;/p&gt;</description>
     </item>
   </channel>
