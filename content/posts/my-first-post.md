@@ -9,5 +9,5 @@ draft = false
 +++
 
 Hello, my name is *Sunayana* and I'm an information science major studying in **Azim Premji University** Bangalore. I reside in HSR Layout. I have been in *Freedom International School* from nursery to 12th grade. I am interested in singing, badminton and painting. 
-In unit one, we worked on the DIKW model which is a framework explaining how raw data is transformed into actionable insights and finally, efficient decisions. We had to make charts and I enjoyed presenting our group's work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily. 
+In unit one, we worked on the DIKW model which is a framework explaining how raw data is transformed into actionable insights and efficient decisions. We had to make charts and I enjoyed presenting our group's work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily. All these topics were very new to me and I learnt how to adapt to such unknown tools and languages.
 
