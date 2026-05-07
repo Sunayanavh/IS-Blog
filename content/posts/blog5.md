@@ -4,7 +4,7 @@ date = '2026-05-07T11:24:47+05:30'
 
 draft = false
 
-title = 'My thoughts on experiences of women in tech companies'
+title = 'My thoughts on inclusivity in tech companies'
 
 +++
 
