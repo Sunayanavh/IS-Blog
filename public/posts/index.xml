@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2026 11:24:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My thoughts on experiences of women in tech companies</title>
-      <link>http://localhost:1313/posts/blog5/</link>
+      <title>My thoughts on inclusivity in tech companies</title>
+      <link>https://example.org/posts/blog5/</link>
       <pubDate>Thu, 07 May 2026 11:24:47 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog5/</guid>
+      <guid>https://example.org/posts/blog5/</guid>
       <description>&lt;p&gt;After listening to group 4 present on &amp;ldquo;Experiences of Women in Computer Science&amp;rdquo;, I felt deeply understood in a way. The fact that women are not treated equally even in the computer science field even to this day is just saddening to me. Sure, they are given jobs and allowed to work in these companies but there are always minute gender biases that prevent them from reaching their full potential. I was fully engrossed when this group was talking about Ada Lovelace and other female computer scientists who contributed to this field. When I foumd out that so many of these women didn&amp;rsquo;t recieve due credit for their hard work, it made me want to actively make a change wherever I go. I&amp;rsquo;d like to think that all of us making small changes to prevent such unfair treatment in our day to day lives is the starting step to overcoming this issue. I realized that all of us play an equally important role to curb this problem.&lt;br&gt;&#xA;Apart from this, I also liked group 7&amp;rsquo;s presentation on inclusive terminology. It also falls under the same bracket of bias and discrimination, which I think is a very wrong practice to have. I was completely unaware that Git and Microsoft actively made it a point to remove all exclusive terms in their softwares. That came as a pleasant surprise to me when my classmates talked about it in their presentation. These two groups did a great job in explaining the current race, gender and class biased problems in a clear way. It definitely is a mindset problem and educating everyone about this is the only way we can change this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Communicating information with clarity</title>
-      <link>http://localhost:1313/posts/blog4/</link>
+      <link>https://example.org/posts/blog4/</link>
       <pubDate>Thu, 07 May 2026 10:45:42 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog4/</guid>
+      <guid>https://example.org/posts/blog4/</guid>
       <description>&lt;p&gt;In this unit, we worked with two different tools called TypeBot and Metabase. These had one theme in common- getting information accross to the user.&lt;br&gt;&#xA;I enjoyed creating my own chaatbot which answered different questions based on the user&amp;rsquo;s choice. I could easily figure out the structure of this whole process since the tool was very visual and logical. In addition to this, I have had conversations with many chatbots so I had a fair idea of how to go about this whole project. One thing I found challenging though was answering questions when the user clicks more than one option. I mostly learnt this entire tool through YouTube videos and Google.&lt;br&gt;&#xA;The metabase project for me was a little more challenging. I found it hard to come up with the right chart that depicted what I wanted to convey. It took a lot of trial and error and in the end, I was satisfied with my work. Since it was a very new topic, I had to watch a lot of videos to learn the logic of the tool. This project also involved group work so I enjoyed creating a cohesive and comprehensible story-line type of link with all of our charts. Overall, I did enjoy learning and doing both these projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Overcome Failures</title>
-      <link>http://localhost:1313/posts/blog3/</link>
+      <link>https://example.org/posts/blog3/</link>
       <pubDate>Tue, 07 Apr 2026 20:05:25 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog3/</guid>
+      <guid>https://example.org/posts/blog3/</guid>
       <description>&lt;p&gt;In unit three, we worked on failures and how to overcome them. It was an eye opening lesson that taught us how to process failures without letting it destroy our self esteem. Our own mind is our enemy as we tend to feel more shame than guilt in such circumstances. I came to a realization that we should take the high road which is slow and more thought out rather than acting on our impulses. Another topic was a case study on the knight capital bug. It was a catastrophe that lead a company to bankruptcy due to over $440 million in losses. There were many lessons from this disaster that I, as an information science student, got to understand and learn.&lt;br&gt;&#xA;While studying this unit, it dawned on me that we completely overlook the mental toll that failures can have on us and automatically give up without working on the root cause of the problem. These skills are very important as we will be facing numerous issues in our coding experiences. I myself have had a narrow mindset of easily getting discouraged whenever I come across a problem. Seeing these bugs as a learning step instead of a hinderance is extremely important especially in the information science field.&#xA;Overall, I found these topics very interesting as I went down a researching rabbit hole for each of them. It definitely taught me eye-opening lessons that I will carry forward in my computer science journey.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding DIKW, Images, Optimization and more</title>
-      <link>http://localhost:1313/posts/blog2/</link>
+      <link>https://example.org/posts/blog2/</link>
       <pubDate>Mon, 23 Mar 2026 16:34:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/blog2/</guid>
+      <guid>https://example.org/posts/blog2/</guid>
       <description>&lt;p&gt;In unit two, we learnt about image transformation and the different aspects that make up an image. For example, we learnt how grayscale and coloured pictures are recognized and stored on a computer. We understood how the different intensities of RGB form a colourful image. We could even calculate the amount of space an image or video takes up in a device based on the number of pixels and aspect ratio of the frame. I found it very cool that I could now understand the logic behind why images and videos take up so much storage (and not blindly blame my iphone for falsely filling up my phone space).&lt;br&gt;&#xA;By the end of unit 2, we were taught about optimization and modelling which helped in easy analysis of a problem. For example, we could plot the different train routes and timings on a graph and find solutions to efficiently time them such that they don&amp;rsquo;t clash. The theory problems were a little challenging for me to solve so I watched a few videos to understand the concept better. However, I could grasp parts of this concept quickly since it did involve a few mathematical topics that I already knew. Overall, it was a very fun unit and I enjoyed working on these topics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello, my name is &lt;em&gt;Sunayana&lt;/em&gt; and I&amp;rsquo;m an information science major studying in &lt;strong&gt;Azim Premji University&lt;/strong&gt; Bangalore. I reside in HSR Layout. I have been in &lt;em&gt;Freedom International School&lt;/em&gt; from nursery to 12th grade. I am interested in singing, piano and badminton.&lt;br&gt;&#xA;In unit one, we worked on the DIKW model which is a framework explaining how raw data is transformed into actionable insights and efficient decisions. We had to make charts and I enjoyed presenting our group&amp;rsquo;s work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily. I found this a little challenging to learn since all these topics were very new to me. Initially, it felt unfamiliar but in the end, I learnt how to adapt to such unknown tools and languages.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, my name is &lt;em&gt;Sunayana&lt;/em&gt; and I&amp;rsquo;m an information science major studying in &lt;strong&gt;Azim Premji University&lt;/strong&gt; Bangalore. I reside in HSR Layout. I have been in &lt;em&gt;Freedom International School&lt;/em&gt; from nursery to 12th grade. I am interested in singing, piano and badminton. Computer science has always been a fascinating subject for me and ever since I knew of it, I&amp;rsquo;ve always wanted to do cool things like create my own website, build my own game and explore the world of cs. I enjoy the learning process and hope to achieve all my goals in this field.&lt;br&gt;&#xA;In unit one, we worked on the DIKW model which is a framework explaining how raw data is transformed into actionable insights and efficient decisions. We had to make charts and I enjoyed presenting our group&amp;rsquo;s work in front of the class. We were also introduced to markdown which is a markup language that helps to create websites on wiki. I learnt that symbols like # and * could be used to edit how the text looks easily. I found this a little challenging to learn since all these topics were very new to me. Initially, it felt unfamiliar but in the end, I learnt how to adapt to such unknown tools and languages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
